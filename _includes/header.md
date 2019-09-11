@@ -1,4 +1,5 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [AP Computer Science]({{ "/" | relative_url }})
 
-Harvard University\\
+@ Bridgeland High School
+by Harvard University\\
 2019–2020
